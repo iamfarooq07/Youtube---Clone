@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100..900;1,100..900&family=Space+Grotesk:wght@300..700&family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+
+html body {
+    font-family: 'Roboto';
+}
+
+/* ---------Navbar Start--------- */
+.round-btn {
+    border: 1px solid #ddd;
+    background-color: #ccc;
+    border-radius: 50px;
+    font-size: 20px;
+    padding: 0;
+    width: 40px;
+    height: 40px;
+    text-align: center;
+}
+
+.round-btn:hover {
+    background-color: #ccc;
+}
+
+.round-btn-2 {
+    border: 1px solid #ddd;
+    background-color: #ccc;
+    border-radius: 50%;
+    font-size: 16px;
+    padding: 2px 14px 4px 14px;
+    height: 40px;
+    text-align: center;
+}
+
+.round-btn-2:hover {
+    background-color: #ccc;
+}
+
+
+.round-btn-2 i {
+    position: relative;
+    top: 1px;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.logo {
+    width: 130px;
+}
+
+.yt-serach-bar .form-control {
+    border-radius: 50px;
+    border: 1px solid #b1abab;
+}
+
+.yt-serach-bar .input-group-text {
+    border-radius: 50px;
+    border: 1px solid #b1abab;
+    font-size: 24px;
+    background-color: #ccc;
+}
+
+/* -------Navbar complete------- */
